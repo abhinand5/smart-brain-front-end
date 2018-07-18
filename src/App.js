@@ -49,7 +49,10 @@ const particlesConfig = {
     }
   },
   interactivity: {
-    detect_on: 'canvas'
+    detect_on: 'canvas',
+    onresize: {
+      density_auto: true
+    }
   }
 }
 
