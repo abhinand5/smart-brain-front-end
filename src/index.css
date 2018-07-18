@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Kreon');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Kreon';
+  background-image: linear-gradient(100deg, #f6d365 0%, #fda085 100%);
+  /*overflow: hidden;*/
+}
+
+.signOut {
+	background-color: #FF416C;
+	/*border-radius: 40px;*/
+	color: white;
+	border-color: #FF4B2B;
+	padding: .5em 1em .5em 1em;
+}
+
+button {
+	cursor: pointer;
+	background-color: #FF416C;
+	color: white;
+	border-color: #FF4B2B;
+}
+.center {
+	display: flex;
+	justify-content: center;
+}
+ .title {
+	color: #0D0630;
+ } 
+
+
+
+
