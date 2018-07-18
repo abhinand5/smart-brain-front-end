@@ -34,6 +34,9 @@ const particlesConfig = {
       color: '#EE4B6A'
     }
   }
+  interactivity: {
+    detect_on: 'canvas'
+  }
 }
 
 const initialState = {
