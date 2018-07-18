@@ -32,6 +32,20 @@ const particlesConfig = {
     },
     line_linked: {
       color: '#EE4B6A'
+    },
+    move: {
+      enable: true,
+      speed: 3,
+      direction: 'none',
+      random: false,
+      straight: false,
+      out_mode: "out",
+      bounce: false,
+      attract: {
+        enable: false,
+        rotateX: 600,
+        rotateY: 1200
+      }
     }
   },
   interactivity: {
