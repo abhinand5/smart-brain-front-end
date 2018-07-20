@@ -1,6 +1,6 @@
 Smart Brain Web-App v1.0
 ======
-Smart-Brain is a full-stack web application that can detect faces on any image using a Machine Learning API. It has a UI built with React, a RESTful Node/Express server and a PostgreSQL database. Sign up NOW! if you still haven't :point_right: <https://face-rec-app.herokuapp.com/>
+Smart-Brain is a full-stack web application that detects faces on any image using a Machine Learning API. It has a UI built with React, a RESTful Node/Express server and a PostgreSQL database. Sign up NOW! if you still haven't :point_right: <https://face-rec-app.herokuapp.com/>
 
 ## Clarifai - The Machine Learning API 
 This app makes use of the **Clarifai Face Detect Model** that returns probability scores on the likelihood that the image submitted contains human faces and coordinate locations of where those faces appear with a bounding box.
